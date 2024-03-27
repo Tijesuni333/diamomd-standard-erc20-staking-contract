@@ -1,0 +1,1 @@
+# diamomd-standard-erc20-staking-contract
